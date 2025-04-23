@@ -1,5 +1,5 @@
- ### Name: RAHUL.R
-### Reg No: 24901333
+ ### Name: KEERTHANA.C
+### Reg No: 24002514
 ### EXP NO: 1 : STUDY OF BASIC GATES 
 
 ### AIM: 
